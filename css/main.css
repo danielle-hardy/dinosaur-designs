@@ -1,21 +1,20 @@
 html {
   box-sizing: border-box;
-  background-color: #f22f1ed;
-  font-family: Georgia,serif;
+  background-color: #f2f1ed;
+  font-family: Georgia, serif;
   line-height: 1.5;
-  }
+}
 
-  *, *::before, *::after {
-    box-sizing: inherit;
-
-  }
+*, *::before, *::after {
+  box-sizing: inherit;
+}
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 h1, h2 {
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -27,7 +26,7 @@ figcaption {
 }
 
 nav {
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
